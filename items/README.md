@@ -1,0 +1,1 @@
+Weapons, armor, consumables
